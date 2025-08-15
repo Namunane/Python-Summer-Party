@@ -1,0 +1,58 @@
+region,customer_id,pre_order_date,demographic_group,pre_order_quantity
+North America,C001,7/2/2024,Gamer,1
+Europe,C002,7/3/2024,Casual,2
+Asia,C003,7/4/2024,Tech Enthusiast,1
+Latin America,C004,7/5/2024,Family,3
+Oceania,C005,7/6/2024,Student,2
+North America,C006,7/7/2024,Gamer,5
+Europe,C007,7/8/2024,,2
+,C008,7/9/2024,Casual,1
+Asia,C009,7/10/2024,Family,4
+North America,C010,7/11/2024,Gamer,1
+North America,C010,7/11/2024,Gamer,1
+Europe,C011,7/12/2024,Student,2
+Asia,C012,7/13/2024,Casual,3
+Latin America,C013,7/14/2024,Tech Enthusiast,2
+Oceania,C014,7/15/2024,Gamer,5
+North America,C015,7/16/2024,Casual,1
+Europe,C016,7/17/2024,Family,4
+Asia,C017,7/18/2024,Student,3
+Latin America,C018,7/19/2024,Gamer,1
+Oceania,C019,7/20/2024,Tech Enthusiast,2
+Oceania,C019,7/20/2024,Tech Enthusiast,2
+North America,C020,7/21/2024,Family,3
+Europe,C021,7/22/2024,Gamer,2
+Asia,C022,7/23/2024,Casual,1
+Latin America,C023,7/24/2024,Student,4
+Oceania,C024,7/25/2024,Family,2
+North America,C025,7/26/2024,Tech Enthusiast,1
+Europe,C026,7/27/2024,Student,5
+Asia,C027,7/28/2024,Gamer,2
+Latin America,C028,7/29/2024,Casual,3
+Oceania,C029,7/30/2024,Family,1
+North America,C030,8/1/2024,Gamer,1
+Asia,C031,8/2/2024,,2
+Latin America,C032,8/3/2024,Tech Enthusiast,3
+Oceania,C033,8/4/2024,Student,1
+North America,C034,8/5/2024,Family,4
+Europe,C035,8/6/2024,Gamer,2
+Asia,C036,8/7/2024,Casual,5
+Latin America,C037,8/8/2024,Family,1
+Oceania,C038,8/9/2024,Tech Enthusiast,2
+North America,C039,8/10/2024,Student,10
+Europe,C040,8/11/2024,Family,3
+Asia,C041,8/12/2024,Gamer,1
+Latin America,C042,8/13/2024,Casual,2
+Oceania,C043,8/14/2024,Student,5
+North America,C044,8/15/2024,Tech Enthusiast,2
+Europe,C045,8/16/2024,Family,1
+Asia,C046,8/17/2024,Gamer,3
+Latin America,C047,8/18/2024,Casual,2
+Oceania,C048,8/19/2024,,4
+North America,C049,8/20/2024,Student,1
+Europe,C050,8/21/2024,Gamer,2
+Asia,C051,8/22/2024,Casual,3
+Latin America,C052,8/23/2024,Tech Enthusiast,2
+Oceania,C053,8/24/2024,Family,1
+North America,C054,8/25/2024,Gamer,1
+Europe,C055,8/26/2024,Casual,2
