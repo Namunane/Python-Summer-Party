@@ -1,0 +1,49 @@
+app_id,rating,category,review_date
+app001,4.5,Games,7/5/2024
+app002,3.9,Productivity,7/6/2024
+app001,4.7,Games,7/10/2024
+app003,4,Health & Fitness,8/15/2024
+app004,five,Education,9/1/2024
+app005,,Games,10/11/2024
+app006,4.2,Lifestyle,10/20/2024
+app007,4,Utilities,11/15/2024
+app008,3.5,Entertainment,12/1/2024
+app009,4.9,Health & Fitness,12/15/2024
+app010,"4,2",Games,1/7/2025
+app011,3.5,Productivity,1/15/2025
+app012,4,Education,1/20/2025
+app013,2.1,Games,2/14/2025
+app014,3.8,Lifestyle,2/20/2025
+app015,4.5,Games,3/3/2025
+app016,3.3,Utilities,3/12/2025
+app017,4.8,Entertainment,3/20/2025
+app018,4.6,Health & Fitness,4/1/2025
+app019,,Education,4/10/2025
+app020,3.2,Games,4/15/2025
+app002,3.7,Productivity,4/20/2025
+app003,4,Health & Fitness,5/1/2025
+app001,4.6,Games,5/5/2025
+app004,5,Education,5/11/2025
+app005,6,Games,5/13/2025
+app006,4.1,Lifestyle,5/15/2025
+app007,3,Utilities,5/20/2025
+app008,4.2,Entertainment,6/2/2025
+app009,4.4,Health & Fitness,6/7/2025
+app010,3.5,Games,6/10/2025
+app011,4,Productivity,6/12/2025
+app012,4.3,Education,6/15/2025
+app013,4.1,Games,6/18/2025
+app014,not available,Lifestyle,6/20/2025
+app015,3.9,Games,6/21/2025
+app016,4.6,Utilities,6/22/2025
+app017,4,Entertainment,7/7/2024
+app018,3.8,Health & Fitness,7/8/2024
+app019,4.2,Education,7/9/2024
+app020,4.7,Games,7/10/2024
+app002,3.8,Productivity,7/11/2024
+app003,4.3,Health & Fitness,7/12/2024
+app004,4.4,Education,7/13/2024
+app005,4.5,Games,7/14/2024
+app006,4,Lifestyle,7/15/2024
+app007,,Utilities,7/16/2024
+app008,4.6,Entertainment,7/17/2024
