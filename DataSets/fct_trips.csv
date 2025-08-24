@@ -1,0 +1,13 @@
+trip_id,driver_id,ride_type,trip_date,rider_count,total_distance,total_earnings
+101,1,UberPool,7/5/2024,3,10.5,22.5
+102,1,UberPool,7/15/2024,2,8,18
+103,2,UberPool,8/10/2024,4,15,35
+104,3,UberX,7/20/2024,1,5,12
+105,2,UberPool,9/1/2024,3,12,30
+106,4,UberPool,9/15/2024,5,20,50
+107,4,UberPool,10/1/2024,3,9,25
+108,5,UberPool,8/25/2024,4,11,28
+109,1,UberPool,9/30/2024,3,6,16
+110,2,UberPool,7/7/2024,2,7,15
+111,3,UberPool,8/5/2024,4,13,32
+112,5,UberX,9/10/2024,1,4,10
